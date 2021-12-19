@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Rupayan",
+        "price": "$50000",
+        "description": "Rupayan city. Three brd rooms. 1 master bed master bath master baranda. 1 guest room. Common bath & kitchen available. Lift facilities. Securities services is very high. 24 hour lift & generator service",
+        "img": "https://i.ibb.co/FbtNMXx/A-scenic-view-from-inside-of-weekend-cottage-by-the-riverside.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sheltech",
+        "price": "$10000",
+        "description": "Sheltech. Three brd rooms. 1 master bed master bath master baranda. 1 guest room. Common bath & kitchen available. Lift facilities. Securities services is very high. 24 hour lift & generator service",
+        "img": "https://i.ibb.co/nsDJYbG/Small-blue-gray-mobile-home-with-a-front-and-side-porch-It-has-a-white-porch-railing-out-in-the-coun.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Smart Home",
+        "price": "$30000",
+        "description": "Smart Home. Three brd rooms. 1 master bed master bath master baranda. 1 guest room. Common bath & kitchen available. Lift facilities. Securities services is very high. 24 hour lift & generator service",
+        "img": "https://i.ibb.co/3kGSyFB/Living-room-3d-render-with-beige-and-green-colored-furniture-and-wooden-elements.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Eastern Group",
+        "price": "$20000",
+        "description": "Eastern Group. Three brd rooms. 1 master bed master bath master baranda. 1 guest room. Common bath & kitchen available. Lift facilities. Securities services is very high. 24 hour lift & generator service",
+        "img": "https://i.ibb.co/w4NynM0/Interior-design-of-elegant-kitchen-with-black-and-white-elements-3d-render.jpg"
+    },
+    {
+        "id": 5,
+        "name": "New Plaza",
+        "price": "$20000",
+        "description": "New Plaza. Three brd rooms. 1 master bed master bath master baranda. 1 guest room. Common bath & kitchen available. Lift facilities. Securities services is very high. 24 hour lift & generator service",
+        "img": "https://i.ibb.co/VYz6TTV/Colonial-Style-House-in-Virginia.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Modern Housing",
+        "price": "$350000",
+        "description": "Modern Housing. Two brd rooms. 1 master bed master bath master baranda. 1 guest room. Common bath & kitchen available. Lift facilities. Securities services is very high. 24 hour lift & generator service",
+        "img": "https://i.ibb.co/M7vPSV8/Beautiful-design-and-detail-on-new-home.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Bishwash Builders",
+        "price": "$20000",
+        "description": "Bishwash Builders. Five brd rooms. 1 master bed master bath master baranda. 1 guest room. Common bath & kitchen available. Lift facilities. Securities services is very high. 24 hour lift & generator service",
+        "img": "https://i.ibb.co/9HchMV1/Lots-of-shrubs-and-mulch-in-beautifully-landscaped-yard.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Orkid Housing",
+        "price": "$10000",
+        "description": "ROrkid Housing. Three brd rooms. 1 master bed master bath master baranda. 1 guest room. Common bath & kitchen available. Lift facilities. Securities services is very high. 24 hour lift & generator service",
+        "img": "https://i.ibb.co/qR6nyDd/Home-interior-mock-up-with-blue-sofa-wooden-table-and-decor-in-blue-living-room-3d-render.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Shuvastu",
+        "price": "$350000",
+        "description": "Shuvastu Three brd rooms. 1 master bed master bath master baranda. 1 guest room. Common bath & kitchen available. Lift facilities. Securities services is very high. 24 hour lift & generator service",
+        "img": "https://i.ibb.co/3WTGPm8/Long-concrete-sidewalk-leading-to-the-front-door-and-porch-area.jpg"
+    }
+]

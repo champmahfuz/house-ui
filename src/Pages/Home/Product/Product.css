@@ -1,0 +1,32 @@
+.properties{
+    width: 100%;
+}
+.card-body{
+    display: grid;
+    padding: 30px 120px;
+    grid-template-columns: repeat(3,1fr);
+}
+.card{
+    padding: 14px;
+    margin: 20px;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    flex-direction: column;
+    box-shadow: 1px 1px 10px 2px #0000007c;
+    transition: .9s all ease;
+}
+.property-img img{
+    width: 100%;
+    max-height: 400px;
+    display: block;
+}
+.property-info{
+    margin: 10px 0px;
+}
+.property-info h1{
+    font-size: 28px;
+    font-weight: bold;
+}
+.property-info p{
+    font-size: 16px;
+}

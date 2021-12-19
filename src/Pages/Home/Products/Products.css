@@ -1,0 +1,24 @@
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 50px;
+    /* padding: 15px; */
+    margin: 50px;
+}
+
+/* responsive */
+@media only screen and (max-width:1024px) {
+
+    /* Players Section*/
+    .card-body{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+@media only screen and (max-width:768px) {
+
+    /* Players Section*/
+    .card-body{
+        display: block;
+        padding: 30px 40px;
+    }
+}
